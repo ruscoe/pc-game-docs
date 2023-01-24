@@ -70,7 +70,7 @@
 
             function Game({ name, year, filepath }) {
                 return (
-                    <tr><td>{name}</td><td>{year}</td><td>{filepath}</td></tr>
+                    <tr><td>{name}</td><td>{year}</td><td><a href={"files/" + filepath} title={"Download " + filepath}>{filepath}</a></td></tr>
                 );
             }
 
