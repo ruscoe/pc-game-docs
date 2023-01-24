@@ -54,8 +54,8 @@
                     <table>
                         <thead>
                             <tr>
-                                <td>Game Name</td>
-                                <td>Release Year</td>
+                                <td><a href="#" onClick={SortByName}>Game Name</a></td>
+                                <td><a href="#" onClick={SortByYear}>Release Year</a></td>
                                 <td>File</td>
                             </tr>
                         </thead>
@@ -74,8 +74,28 @@
                 );
             }
 
-            ReactDOM.render(<GameList games={game_data} />, document.getElementById("root"));
+            function SortByName() {
+                let sorted_game_data = game_data;
 
+                sorted_game_data.sort((a, b) => a.name < b.name ? -1 : 1);
+
+                RenderGameList(sorted_game_data);
+            }
+
+            function SortByYear() {
+                let sorted_game_data = game_data;
+
+                // Sort by year, lowest to highest.
+                sorted_game_data.sort((a, b) => a.year - b.year);
+
+                RenderGameList(sorted_game_data);
+            }
+
+            function RenderGameList(data) {
+                ReactDOM.render(<GameList games={data} />, document.getElementById("root"));
+            }
+
+            RenderGameList(game_data);
         </script>
     </body>
 </html>

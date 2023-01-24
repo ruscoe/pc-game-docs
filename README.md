@@ -4,5 +4,5 @@ A React application for the display of PC game manuals.
 
 ## TODO
 
-* [ ] Sort results
+* [x] Sort results
 * [ ] Search results
