@@ -1,0 +1,203 @@
+ Welcome to Jurassic Park: Operation Genesis [v 1.0]
+ ===================================================
+
+ CONTENTS:
+ 0. Technical Support
+ 1. AutoPlay
+ 2. Monitor Resolution
+ 3. Game Initialization & Setup
+ 4. Video Cards
+ 5. Troubleshooting
+ 6. Known Driver Issues
+
+ 0. TECHNICAL SUPPORT
+ --------------------
+
+ If you have a problem with this product that you cannot resolve, please 
+ contact our Technical Support department.  
+
+ Universal Interactive Customer Service 866 341-0879 / (310) 649-8006 
+ Universal Interactive Technical Support 866 582-7063 / (310) 649-8016 
+
+     Monday-Friday, 8 am to 4:45 PM Pacific Time. 
+     Automated support available 24 hours a day, 7 days a week.
+
+ Fax:  (310) 258-0755, 24 hours daily
+
+ World Wide Web address: http://support.vugames.com/
+
+ Or write to:
+	
+ Vivendi Universal Interactive Publishing
+ 4247 South Minnewawa Ave., Fresno, CA 93725
+
+
+ If you decide to telephone our Customer Services, please try to be sitting in
+ front of your computer and have a pen and paper at the ready. Before
+ contacting us, please try to have the following information ready so that we
+ may help you more efficiently:
+
+   o The name of the product.
+   o The make and model of your computer.
+   o The processor and its speed.
+   o Any peripherals attached to the computer.
+   o The graphics card, driver date and version.
+   o The sound card, driver date and version.
+   o The version of Windows you are using.
+   o Total memory installed.
+   o The exact error message (if any).
+   o The version of DirectX installed.
+   o The type of CD-ROM drive.
+   o The total system resources free before running the program.
+   o The name of any programs running in the background.
+
+ If you decide to email our Customer Services, to ensure a prompt reply please
+ summarise your issues as concisely as you can, giving details, as above, of
+ the product, the problem or error and any circumstances that you feel
+ relevant and your particular computer system.
+
+
+ 1 AUTOPLAY
+ ----------
+
+ If the Windows(R) AutoPlay feature is enabled on your computer, the "Jurassic
+ Park: Operation Genesis" setup screen will automatically appear when you
+ insert the "Jurassic Park: Operation Genesis" CD into your CD-ROM drive.
+ Simply click on Install and follow the on-screen instructions to continue the
+ installation.
+
+ If the AutoPlay feature is disabled, you can begin the installation by doing
+ the following:
+   a) Go to the Start Menu and select Run.
+   b) Type D:\SETUP.EXE (where D is your CD-ROM drive letter) and press Enter.
+
+ -or-
+
+   a) Double-click on your CD-ROM drive icon.
+   b) Double-click on SETUP.EXE.
+
+
+ 2. MONITOR RESOLUTION:
+ ----------------------
+
+ It is important that you make sure your monitor supports the game
+ resolution you have chosen to play in.  To check what resolutions your
+ monitor supports, do the following:
+   1. Open up My Computer
+   2. Double-click on Control Panel
+   3. Find the Display icon and open it.
+   4. Choose the Settings tab.
+   5. Locate the resolution pointer in the Desktop Area box and drag it to the
+      far right.
+
+ The resolution choice shown is the maximum resolution your monitor is
+ capable of displaying.  If you do not want to change to this resolution
+ now, select Cancel.  Your Desktop Area should be set to the game
+ resolution you are trying to play in or higher.
+ NOTE:  Please make sure your monitor type is properly specified to
+ insure correct reporting of available video resolutions.
+
+
+ 3. GAME SETUP:
+ --------------
+
+ While some of the video options can be configured from within the game,
+ "Jurassic Park: Operation Genesis" also provides a separate application for
+ configuring the video options. Some of the options can only be set from the
+ setup application. This application is also useful for situations where the
+ video options have been set to invalid values that prevent the game from
+ starting up correctly.
+
+ (There are also options that can only be set from the options screen within
+ the game.)
+
+ The "Jurassic Park: Operation Genesis Setup" application can be started from
+ the start menu. A shortcut to the application is created when the game is
+ installed.
+
+ Click the "?" button in the setup application for descriptions of all the
+ different settings. This help file also lists some recommended settings for
+ use with common configurations.
+
+
+ 4. VIDEO CARDS:
+ ---------------
+
+ Most modern video cards released towards the end of 2001 and during 2002
+ will run "Jurassic Park: Operation Genesis" well.
+
+ Recommended chipsets are:
+     nVidia GeForce3
+     ATI Radeon 8500/9700
+
+
+ 5. TROUBLESHOOTING:
+ -------------------
+
+ Before answering questions, please make sure the latest video and sound
+  card drivers for you operating system have been installed.
+
+ Q1:     My graphics are running slowly.
+
+ A1:     Try reducing the resolution to 640x480. Try reducing the color
+         bit-depth in the in-game options screen to 16bit.  Also try reducing
+         the texture-depth to 16bit.  If this doesn't help enough try reducing
+         the texture quality.  If this STILL isn't helping enough start
+         reducing the terrain/particle/surface.  This should definitely make a
+         big difference.
+
+
+ Q2:     I have changed the graphics settings, but I'm still having problems
+         with the game running slow. What now?
+
+ A2:     Make sure that you have no other applications running when you run
+         "Jurassic Park: Operation Genesis". If you have virus protection
+         software running, it may be performing file checking as "Jurassic
+         Park: Operation Genesis" reads files.  This can lead to performance
+         loss. Please refer to your virus protection help for more
+         information.
+
+
+ Q3:     I am using a GeForce3 and am getting some textures flickering. What
+         should I do?
+
+ A3:     Please install the latest drivers for the video card. Please use
+         version 40.72 (11/11/2002) or later.
+
+
+ Q4:     I am using an ATI Radeon 9700, and the game is crashing on start up.
+         What should I do?
+
+ A4:     Please install the latest drivers for the video card. Please use
+         version 6.13.10.6218 (11/2/2002) or later.
+
+ Q5:	 I am using a Matrox Parhelia and there are missing polygons in the 
+         terrain and sky. What should I do?
+
+ A5:     Please install the latest drivers for the video card. Please use
+         version 5.13.01.1172 or later.
+
+
+ 6. Known Driver Issues:
+ -----------------------
+
+	Hardware: 	Nvidia NFORCE Motherboards
+	Issue:	  	Sound corruption; Intermittant crashes
+	Version fail: 	Nforce-105-release or earlier
+	Recommended:	Nforce-win2k_2.00
+	Comments:	There are some known issues using the Nforce motherboard
+			with driver versions 105 or earlier under Win 2K. This isssues include
+			sound corruption after an hours gameplay, and the possibilty
+			of intermittant crashes which may hard lock a PC. These 
+			problems appear to be solved when using version 2.00. At the
+			time this was written version 2.00 were the latest drivers available,
+			no knowledge of newer drivers, or their performance was available.
+	
+----------------------------------------------------------------------------
+
+Thank you for purchasing Jurassic Park: Operation Genesis!
+
+"Jurassic Park: Operation Genesis" interactive game © 2003 Universal
+Interactive, Inc. Jurassic Park is a trademark and copyright of Universal
+Studios and Amblin Entertainment, Inc. Licensed by Universal Studios Licensing
+LLLP.  All rights reserved.

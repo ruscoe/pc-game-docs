@@ -1,0 +1,277 @@
+Blair Witch Volume Two - The Legend of Coffin Rock
+--------------------------------------------------
+
+System Requirements:
+
+Windows 98, Windows NT 4.0, or Windows 2000
+Pentium2, Celeron, Pentium3 or AMD Athlon CPU
+64MB System RAM (96MB for 3D hardware acceleration)
+Sound Blaster Live! for environmental audio effects
+Matrox G200/G400, ATI Rage 128, or TnT/TnT2/GeForce recommended for 3D 
+hardware acceleration
+850MB of free disk space
+200MB of free virtual memory
+
+
+In game non-programmable keys
+-----------------------------
+
+F1 - Display list of controls
+F2 - Save game
+F3 - Restore game
+F5 - Toggle sound
+F6 - Quick save
+F9 - Quick load
+F11 - Brighten Screen(Gamma Settings)
+F12 - Darken Screen(Gamma Settings)
+ESC- Pause
+
+
+Helpful Hints
+-------------
+
+Save OFTEN. You never know what dangers lurk around the next corner. 
+The F6 key is the Quick Save key and the F9 key is the Quick load key. 
+
+Use the monitor calibration from the graphics options menu to adjust 
+your brightness/contrast of your display to the optimal settings.
+
+With your monitor calibrated, play in total darkness if possible. If 
+you play with the lights on, you may loose some of the important 
+details of your surroundings.
+
+Use F11 and F12 to adjust gamma if the game is too bright or too dark.
+
+When changing controls, go to the top of the control configuration 
+menu, and select "Restore Defaults" to change to the default settings.
+
+To learn the controls during gameplay, press F1 to display the control 
+mappings.
+
+Keep health items such as food ready by preselecting them with the [ 
+and ] keys.  To restore your health, press ENTER. This will raise the 
+window to verify that you mean to use the item. Press ENTER again to 
+use the item.  You may also enable "Auto Use Health" from the control 
+options menu (default is ON).
+
+Sometimes you just need to run like hell away from monsters. This isn't 
+your typical action game.  There are times where you will be low on 
+ammo - it is better to run and live than fight and die. 
+
+To make Blair Witch Volume Two - Coffin Rock more challenging, turn off 
+"Auto Aim" mode from the controls menu.
+
+Hardware acceleration is turned off by default. If your video card 
+supports hardware acceleration, try turning it on. 
+
+Make sure you have the latest drivers for your video card. If your 
+drivers are more than 3 months old, they are most likely out of date.
+
+Back away from enemies while attacking (even when using melee weapons). 
+Most enemies only have close range attacks so if you keep some 
+distance, Lazarus will have the advantage.
+
+
+Seeing in the Dark
+------------------
+
+LANTERN:
+
+The lantern is switched on and off by pressing the Lantern key.  (F in 
+all modes)
+
+Known Issues
+==========
+
+If you experience audio dropout while playing Blair Witch 2, make sure 
+you have the latest sound drivers, or go to the Sound Options menu and 
+set Device: WavOutWrite: YOUR WAVE DEVICE (the name of your sound card 
+should be listed here).  This should solve the drop out problem.
+
+When talking to characters in Blair Witch 2, sometimes it is necessary 
+to press and hold the mouse button to get a response.
+
+If your sound or video card drivers are older than 2 months old, they 
+are most likely outdated. Please download the latest drivers for your 
+video and sound cards. If you do not know of a source for these 
+drivers, visit http://www.nocturnegame.com/nocsupport/
+
+
+Troubleshooting
+---------------
+
+Q: I have a video card with only 1MB of memory on it. I meet the system 
+requirements otherwise. Can I play Blair Witch Volume Two - Coffin 
+Rock??
+A: Blair Witch Volume Two - Coffin Rock requires a video card with at 
+least 2MB of memory on it. Sorry, you will need to upgrade your video 
+card.
+
+Q: Blair Witch Volume Two - Coffin Rock seems really choppy and slow. I 
+have a fairly low system and I was hoping to play...
+A: In the Graphics Options Menu try turning your screen resolution 
+down. The default is 640 X 480, but you will get faster frame rates at 
+lower resolutions. Unfortunately, some video cards can have trouble 
+with lower resolutions. If this happens to you, try varying your 
+resolutions in the game to see which resolution gives you the best 
+performance.
+
+Q. I have a Voodoo4/Voodoo5, and when I run in 32 bit color, the frame 
+rate is very slow. When I set it to 16 bit color, the frame rate is 
+back to normal. What gives?
+A. We believe that this is a bug in the new Voodoo4/Voodoo5 drivers. 
+Because we are unsure, we are working with 3Dfx to try to address the 
+problem. If the problem is due to something in their drivers, you 
+should give 32 bit color a try after each driver update from 3Dfx. If 
+the problem is in our renderer, we will attempt to correct this issue 
+in a patch. 
+
+Q: Blair Witch Volume Two - Coffin Rock displays an error message after 
+loading/starting a mission.
+A: Turn off 3D acceleration from the Graphics Options Menu. Some cards 
+can not properly support 3D hardware acceleration.
+
+Q: My card supports 3D acceleration. I am sure of it. I want a faster 
+frame rate!
+A: Turn on 3D acceleration from the Graphics Options Menu. If the 
+program crashes as you load a mission, see the Q & A above.
+
+Q: I  have a 3Dfx based card. Will Blair Witch Volume Two - Coffin Rock 
+use this card?
+A: Blair Witch Volume Two - Rustin Parr supports Voodoo2, Voodoo 
+Banshee, Voodoo3, and Voodoo5.
+
+Q: Does Blair Witch Volume Two - Rustin Parr run on Voodoo2, Voodoo 
+Banshee or Voodoo3?
+A: We do not recommend using Voodoo1 or Voodoo2 because they are not 
+AGP cards. Blair Witch Volume Two - Coffin Rock will run on them, it 
+just won't be as fast as on AGP cards. In reference to Voodoo3, Blair 
+Witch Volume One - Rustin Parr can run in 16bpp  640 X 480 mode. In 
+reference to Voodoo5, Blair Witch Volume One - Rustin Parr can run at 
+higher resolutions in 32 bit color. 
+
+Q: I have a Voodoo3 - Can resolutions greater than 640x480 be used?
+A: Voodoo3 cards do not support the large textures used in Blair Witch 
+Volume One - Coffin Rock.  If we can find a workaround to this that 
+doesn't make the game look even more blurry (than it does now on a 
+Voodoo3), we'll fix it.
+
+Q: Can Blair Witch Volume Two - Coffin Rock run in software rendering?
+A: Blair Witch Volume Two - Coffin Rock runs very well with software 
+rendering - better than it does with hardware acceleration in 16 bit 
+color under most instances.  Select 32-Bit Mode from the Graphics 
+Options Menu.  If your computer's clock speed is less than 500MHz, you 
+may wish to run Blair Witch Volume One - Rustin Parr in 512x384 or 
+320x240 mode. Blair Witch Volume One - Rustin Parr automatically 
+detects the optimal screen resolution for your computer. Screen 
+resolution may be changed from the Graphics Options menu.
+
+Q: Lazarus is all white, without any textures on him. Sometimes other 
+characters turn all white. What the heck?!?
+A: Most likely you have a card based on a Rage chipset, which has 
+problems with DirectX 6 and beyond causing this kind of illusion. 
+ 
+Q: The game runs but all I see are shadows.  What gives?
+A: You probably have a TnT or TnT2 based card.  Download the latest 
+reference video drivers from NVidia's web site.
+
+Q: I want to run higher resolutions than 640x480.
+A: You need 16MB on your video card.  32-bit color requires plenty of 
+video memory and cards with less than 16MB of video memory can not 
+handle this. Also, some cards that do have 16MB+ of video memory can 
+not handle Blair Witch Volume Two - Coffin Rock in higher resolutions.
+
+Q: 1280x1024 mode runs slow.
+A: This mode only runs fast enough on Matrox G400, ATI Rage 128, and 
+GeForce video cards.
+
+Q: Blair Witch Volume Two - Coffin Rock exits to the desktop when I run 
+it in 512x384 mode.
+A: Don't run 512x384 mode.   Some older video cards don't properly 
+support this mode.
+
+Q: The game says that I have less than 200MB of Virtual Memory free.  
+How do I fix this so that Blair Witch Volume Two - Coffin Rock runs 
+best?
+A: Select Control Panel, then System, then Performance, then Virtual 
+Memory. It is best to change this setting so that Windows manages 
+virtual memory.
+
+Q: Game gives an error message saying that you're out of memory.
+A: You need more virtual memory.  See previous Q&A for how to change 
+your virtual memory settings.
+
+Q: Blair Witch Volume Two - Coffin Rock levels do not load as quickly 
+as I would like.
+A: Add more RAM to your computer. The more RAM that you have, within 
+reasonable limits, the faster Blair Witch Volume Two - Coffin Rock will 
+load and run.
+
+Q: The dialog skips, pops, or drops out. I have a SoundBlaster Live 
+card. Your box says that it supports this card. What's up with that?
+A: You have old LiveWare software and drivers. Visit the Creative Labs 
+web site and download LiveWare 3.0 or higher.
+
+Q: I don't have a SoundBlaster Live card, but I have dialog that skips, 
+pops, or drops out. What about me?
+A: You should download and install the latest drivers from your board 
+manufacturer. If you have an Aureal based card (like the Diamond 
+Monster Sound card), download the latest drivers from 
+http://www.a3d.com/html/download/drivers/.
+
+Q: I have the latest drivers and I am sure that things are working. How 
+can I get more cool stuff from my sound card?
+A: From the Sound Options Menu, turn on Hardware Mixing. If you have 
+any sound problems, turn this back off (default).
+
+Q: The pistols sound really bad sometimes. It sounds like they are 
+getting cut off. What's up?
+A: It sounds like you have your sound turned up too high on the mixer 
+in Windows. Load up the mixer for your sound card and make sure the 
+volume is no higher than 75%. Then, when you want louder sounds, turn 
+up the sound on your speakers and not in the mixer.
+
+Q: Should I use DirectX 7a with Blair Witch Volume Two - Coffin Rock?
+A: Yes. DirectX7a is required.
+
+Q: The screen has a black bar above and below it (letterbox), but 
+nothing is happening and the game won't continue? What do I do?
+A: Hit the ESC key on your keyboard and choose to skip the cinematic.
+
+Q: I have set up my controls so that I use the keys on the number pad. 
+I can't seem to get combinations of keys to work (i.e. run and jump at 
+the same time). Why?
+A: Because of the way the number pad works, it can't understand two 
+keys on the number pad being pressed at the same time. You should 
+reconfigure your controls so you will never need to press two keys on 
+the number pad simultaneously (i.e. run and jump for a running jump).
+
+Q: Will Blair Witch Volume Two - Coffin Rock run on a AMD-K6 Processor?
+A: Sure. 
+
+Q: The game is too dark even when I try calibration.  What can I do?!?
+A: Use F11 and F12 to adjust the gamma in game.
+
+Q: How do you Uninstall Blair Witch Volume Two - Coffin Rock.
+A: Go to control panel and select Add/Remove programs.
+
+Q: I have Windows NT. Can I run with hardware accelerated graphics?
+A: Blair Witch Volume Two - Coffin Rock supports Windows NT in software 
+mode.   You'll need Windows 2000 and the proper drivers from the video 
+card manufacturer to run accelerated under Direct3D. Windows NT doesn't 
+support DirectX 5 or better (which is what Blair Witch Volume Two - 
+Coffin Rock needs to run properly with acceleration).
+
+Q: Particles make my video and/or sound to run choppy, what do I do?
+A: Try turning down the particle density in the graphics options.
+
+Q: When I play in hardware over 640x480 I see the occasional wrong camera or left-over scene.
+A: This is due to a problem in clearing the previous frame buffer, it will not affect gameplay in any way.
+
+Q. I need technical support! What do I do?!?
+A. Email to support@godgames.com <mailto:support@godgames.com> or visit 
+http://www.godgames.com
+
+
+
+

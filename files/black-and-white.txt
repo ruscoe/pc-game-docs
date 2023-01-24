@@ -1,0 +1,393 @@
+Black & White(TM) Readme File
+-------------------------
+
+
+A message from the Lionhead team (6am February 22nd 2001).
+
+Thank you for buying Black & White. We spent three years writing this game and it is, we believe, unlike anything else you will have ever played.
+It is everything we hoped it would be, and contains all the features we thought a ground-breaking game should have.
+We hope that you enjoy playing as much as we've enjoyed working on it. In fact, we hope you enjoy it more than that because there have been times when it's pushed us to our very limits.
+Making this game, we found out who we really were. We hope that, as you play, you'll find out who YOU really are.
+Please do look at this readme document. It'll enhance your enjoyment of what we hope is an incredible game to play.
+
+Thank you.
+
+All at Lionhead Studios Ltd.
+
+
+For playing tips, check out the official Black & White game website at http://www.bwgame.com
+
+
+-----------------
+Table Of Contents
+-----------------
+
+1.  Minimum PC Configuration
+2.  Installation
+3.  DirectX(TM)
+4.  Uninstall
+5.  Gameplay Additions
+6.  Controller Notes 
+7.  How to create your own player symbols and Creature tattoos
+8.  Network & Out of Sync recovery
+9.  Creature Homepages
+10. Naming your Villagers from your email program
+11. Notes on video card chipsets
+12. Help!
+13. Hot off the Press - Additional information
+
+---------------------------
+1. Minimum PC Configuration
+---------------------------
+
+
+Processor 	 - 350 MHz Intel® Pentium® II MMX processor
+Memory 		 - 64 Mb RAM
+HDD Space 	 - 600 Mb free hard disk space
+Operating System - Windows® 95/98/ME/2000
+CD ROM Speed 	 - 4x CD-ROM drive
+Videocard 	 - (PCI/AGP) 8Mb 3D Hardware Accelerator Card with Direct3D(TM) support
+Soundcard 	 - DirectX 7.0a compliant sound card
+DirectX 	 - DirectX 7.0a (supplied with CD)
+
+
+---------------
+2. Installation
+---------------
+
+Note: Black & White will only install and run on machines installed with Windows 95, Windows 98, Windows ME or Windows 2000.
+
+1.	Start your machine and wait for the Windows 95/98/ME/2000 operating system to load.
+
+2.	Place the Black & White CD in the CD drive.
+
+3.	Windows will automatically detect the CD and begin the installation. Follow the on-screen instructions to install Black & White. If you need to install DirectX 7.0a, you can do this as part of the installation. Black & White will then be ready to play.
+
+4.	The installation program creates a program group called Lionhead Studios Ltd and adds it to your Start/Programs menu. Left-click on the Start button on your Windows task bar. Under Programs/Lionhead Studios Ltd, select and click Black & White to play.
+
+Note: Should Windows fail to recognize the CD and fail to run the installation program, run Setup.exe from the root directory of the CD.
+
+
+----------
+3. DirectX
+----------
+
+If you try to run the game without DirectX7.0a installed, you will receive the following error message: 
+
+"The Black.exe file is linked to the missing export Ddraw.dll:DirectDrawCreateEx".
+
+
+If you try to run the Black & White Setup application without DirectX7.0a installed, you will receive the following error message: 
+
+"The setup.exe file is linked to the missing export mfc42.dll:66461"
+
+
+If you receive either or both of these messages, you need to install DirectX7.0a. For your convenience, we have included DirectX7.0a on the Black & White CD.
+
+
+a) Installing DirectX7.0a directly from CD (if you skipped it during game install)
+Black & White comes with DirectX7.0a and will prompt you to install it during installation. If you would like to install it manually, make sure the Black & White CD is in the CD-ROM drive change to the following folder on your CD-ROM drive: 
+
+	"\Directx"
+
+	and double-click on DXSETUP.EXE
+
+b) DirectX7.0a and supported hardware
+We recommend that Black & White be run with DirectX compatible sound boards and video cards. While there is a chance that Black & White will run with non-DirectX compatible hardware, you may find that:
+
+	i)   Sound quality suffers.
+	ii)  The game runs slower.
+	iii) The game does not run at all.
+
+If your sound card or video card does not support DirectX, please contact your vendor.
+
+
+------------
+4. Uninstall
+------------
+
+To uninstall Black & White go to Programs/Lionhead Studios Ltd/Uninstall Black & White in the Start menu. Left-click on Uninstall Black & White to proceed.
+
+Should this fail to work, left-click on the Start menu, select Settings and then Control Panel. Now find Add/Remove Programs and double left-click to run. Scroll down the list until you see Black & White, select it and left-click on Add/Remove to uninstall.
+
+If the uninstaller fails to completely remove Black & White (it may not, for example, delete your Saved Games folder), delete the folder to which you installed the game. Thus, if you have used the default directories, double left-click on My Computer, double left-click on the C: drive, double left-click on Program Files, left click on the Lionhead Studios folder, then right click and select Delete. Click Yes to confirm. This will send the remaining files to the Recycle Bin, which you will then need to empty.
+
+
+---------------------
+5. Gameplay additions
+---------------------
+
+Planting a tree away from any buildings will produce more trees. A green puff of smoke confirms this action.
+
+Watering any tree will encourage that tree to grow (except trees planted near your Temple).  This is essential on later quests where wood is a premium.
+
+When you have a villager in your hand, a house with the blue man symbol indicates his home.
+
+
+Miracle Dispensers - You are able to build your own one-shot Miracle Dispensers by combining six scaffolds created at your workshop. Once placed on the landscape, you can create one-shot Miracles by charging a Miracle in your hand and casting it on the Dispenser. These can be moved from the Dispenser, placed anywhere and saved for later use. You can cast any Miracle on a created Dispenser to create a one-shot Miracle of that type.  This is an especially useful tactic, as you can create one shot Mega-blasts and place them in the Vortex for use in later lands.
+
+-------------------
+6. Controller Notes 
+-------------------
+
+Control key additions:
+----------------------
+Please note: These will be overwritten if you assign these keys to other commands in the ingame Options/controls menu.
+
+R - repeat Miracle (same as using the repeat Gesture).
+M - Miracle selection mode (same as using the Miracle Gesture).
+
+
+Pressing & holding Ctrl + Shift will zoom you close into your hand. Releasing them will return you to your previous view.
+
+
+TOUCHSENSE MOUSE:
+Black & White fully supports the TouchSense technology from Immersion Corporation. 
+This functionality is available to anyone who is using a mouse incorporating the TouchSense technology and with the appropriate drivers installed.
+
+TouchSense supplements the visual and audio feedback and gives players of Black & White a more complete perceptual experience. In the virtual Black & White world, having tactile feedback through the mouse will add realism to the whole game experience while exploring the world and interacting with objects. Pulling up trees, powering up Miracles, stroking or slapping your Creature together with many other interactions all have their associated touch sensations which will add to the overall immersive game experience. An extra challenge has been built into the game which is only available to those players using TouchSense technology. It will only be possible to solve these challenges by use of TouchSense-enabled devices.
+
+
+In Black & White, the goal has always been to produce an interface, which is entirely uncluttered by the traditional icons, menus and instead concentrate on the natural real-world interactions with which everyone is familiar. As such, the Black & White hand is really to be viewed as an extension of your own hand. Having touch as an additional feedback to this interface enhances this experience. The tactile sensations do even more to create the illusion that the world behind the screen is a real world.
+
+
+More details of this technology can be found at www.immersion.com. 
+For any users who already have this technology, be sure to check up that you have the latest patches available for Black & White at www.immersion.com/coolsites
+
+TouchSense Technology Support:
+There are 3 levels of support to TouchSense that can be set in the Game. 
+These are available from the Immersion section on the Game Options screen:
+Note: The Default support level is Normal.
+
+	Minimum:	Just the special Immersion Challenge that has been built into the game.
+	Normal:		Key interactions for the game - with objects, Miracles and your Creature.
+	Maximum:	Interaction with all game objects and terrain features as the hand 
+			passes over the land.
+
+Note: All TouchSense effects have been balanced with the assumption that the "Strength" on the TouchSense mouse control panel settings has been set to Maximum. Different TouchSense tactile feedback mouse products may feel slightly different, so you may want to make adjustments to the "Strength" setting to best suit your preferences.
+
+
+It is possible to make your own customizations to the TouchSense sensations. However, this operation is entirely unsupported and so it is advisable to make sure you make backup copies of the original files. First you need to download Immersion Studio, the tool for editing touch effects. This can be found in the SDK section of the Immersion website: http://www.immersion.com/developer 
+
+
+Then there are 2 files which are used in Black & White. They can be found in .\Lionhead Studios Ltd\Black & White\Data\Immersion
+
+Tactile.ifr: 		This contains the TouchSense effects for tactile feedback
+		mouse (e.g. Logitech iFeel Mouse).
+FullFeedback.ifr:	This contains the force feedback effects for a full force feedback
+		mouse (e.g. Logitech Wingman Force Feedback Mouse). 
+
+For additional information on Immersion and other TouchSense-enabled devices please visit Immersion at www.immersion.com or www.immersion.com/entertainment.html.
+
+NB. Users of the Logitech iFeel MouseMan mouse must ensure that they set the middle button activated by pressing the wheel to be the same as the normal middle button action. You can do this by selecting "Mouse" from the control panel and then the "Buttons" tab. The default setting of this during installation is WebWheel which will interfere with the correct operation of Black & White.
+
+
+-------------------------------------------------------------
+7. How to create your own player symbols and Creature tattoos
+-------------------------------------------------------------
+
+Black & White comes with 16 pre-defined player symbols/Creature tattoos. The same images are used for both. You can replace any of these images with your own. To do so, place a 64x64 greyscale .bmp image (8-bit) called symboln.bmp (where n is a number from 1 to 16) in your profile directory (default directory will be c:\program files\Lionhead Studios Ltd\Black & White\profiles\yourname\ - where yourname is the name of the profile you created). The player logo/Creature tattoo will then be available to select in the usual ways.
+
+To swap back to the default logos/tattoos, simply delete the image files you created.
+
+
+Tip: Design your logos on a black background for best results.
+
+
+-----------------------------------------
+8. Network & Out of Sync Recovery Feature
+-----------------------------------------
+
+Online Requirements
+Internet features require TCP/IP Internet connection at 56Kbps or faster, or Internet access via LAN (Local Area Network). 
+
+Network Problems
+
+Note to AOL® users: If you use AOL or any other system that doesn't use Windows dial-up networking, you will need to manually connect to the internet before running the game if you want to use any of the online aspects.
+
+To force Black & White into thinking that there is an OPEN & READY internet connection you can do the following:
+
+1. Right mouse click on the runBlack.exe file - the default location for this should be C:\Program Files\Lionhead Studios Ltd\Black & White - and select the Create Shortcut option.
+2. Right mouse click on the Shortcut to runBlack.exe file and select the Properties option.
+3. In the box labeled Target type in the following command at the end of the path description:
+ /FORCEINETCONN 
+4. Click the OK button at the bottom of the box and then double-click the Shortcut to runBlack.exe to run the game.
+ 
+To force Black & White into thinking that there is NO internet connection you can do the following:
+
+1. Right mouse click on the runBlack.exe file - the default location for this should be C:\Program Files\Lionhead Studios Ltd\Black & White - and select the Create Shortcut option.
+2. Right mouse click on the Shortcut to runBlack.exe file and select the Properties option.
+3. In the box labeled Target type in the following command at the end of the path description:
+/NOINETCONN
+4. Click the OK button at the bottom of the box and then double-click the Shortcut to runBlack.exe to run the game.
+
+
+
+
+Multiplayer - Out Of Synchronization Recovery Feature
+-----------------------------------------------------
+
+If a game goes Out Of Sync, data is transferred to all client machines for an Out Of Sync restart (This may take a few seconds, dependant on the number of people in the game). This feature can be used as follows:
+
+
+1. LAN
+When waiting for a person to join you in an out-of-sync game, have the "Restore Out Of Sync" checkbox turned on. The game will then be in "Out Of Sync" restore mode. You will not be able to change the map (It will be the same map as the Out Of Sync game). You will only be able to change teams and start the game.
+
+
+2. Internet
+When creating a channel, have the "Restore Out Of Sync" checkbox turned on (this will only be visible if you have an Out Of Sync restore available).
+
+Only people with the Out Of Sync restore data, sent around when the game went Out Of Sync, will be able to join you and replay the game. You can change the teams/clans to how they were in the previous session manually.
+
+
+Note that Out Of Sync Restore can only be used for a multiplayer game, which is created straight after the game that went Out Of Sync. If another multiplayer game is played in the meantime, it is not possible to restore the previous game.
+
+
+---------------------
+9. Creature Homepages
+---------------------
+
+Black & White allows you to publish webpages containing all the information about your Creature. This information is continuously updated by the game and stored on your local machine.
+
+You can upload your pages for other people to view by using the CreatureUpload.exe application. These Creature pages are hosted as part of the bwgame Creature Page hosting service (www.bwGame.com) and community pages.
+
+There is an external application called "CreatureUpload.exe" (the default directory for this will be c:\Program Files\Lionhead Studios Ltd\Black & White\), which allows you to upload your Creature info..
+
+To use this service, you MUST be registered at www.bwgame.com (and therefore have a username and user password). In addition, you must have played at least once over the Internet or entered your registration details into the "over the Internet user details" dialog box in Black & White. You MUST also have a Creature.
+
+
+After successfully uploading you can view your Creature page at:
+
+http://www.YOURREGISTRATIONNAME.bwcreatures.com
+or http://www.bwcreatures.com/YOURREGISTRATIONNAME
+
+Where YOURREGISTRATIONNAME is the name you chose when registering online.
+
+
+The images and information about your Creature are also stored on your hard disk. You can access this information by opening the "html directory" in your profile directory (.\Profiles\Myregistrationname\html) . This html page is template based, so you may change it. This does not change your Creature data however. 
+
+It is a normal HTML file with same special keywords which gets parsed whilst creating the Creature html file. So anybody with basic HTML skills can create their own template file.
+
+Please note: You cannot upload this offline version to the bwgame Creature pages.
+If you want to upload the offline generated Creature HTML page to your own webpages, using the default/shipped template file, you may have to change the path of the images. This can be done at the top of the Creatures html page (source of file).
+
+
+-------------------------------------------------
+10. Naming your Villagers from your email program
+-------------------------------------------------
+
+Black & White can import names from your computer's email contact list and use these as names for your Villagers. Additionally, Black & White can retrieve the Subject & From Field from your emails and notify you in-game that you have received an email from any of your villager contact names. Additionally, if you are running Black & White and receive an email from a new contact, this name will be assigned to a Villager, who will notify you of the email.
+
+Black & White supports Microsoft Outlook(TM) or any POP3 compatible Mailbox. It does NOT support Microsoft Outlook Express(TM). 
+
+To activate the email feature, you need to run the Black & White Setup application, click on the email settings button and select your player profile from the drop-down list.
+
+
+Check the first box (check for Internet email) to activate this email feature.
+
+Check the second box if you are using Microsoft Outlook. If you are using a POP3 mail system, leave this box unchecked and fill out your POP3 server settings in the fields below.
+
+This feature is only operational in the single player game and also you need to have done the following:
+
+1. You have registered at www.bwgame.com site
+2. You have gone into the Online Game - Find Games on the internet and entered your username and password at least once.
+
+
+Email Questions and Answers:
+
+
+Q:I received a mail while playing Black & White but I can't see a Villager named after the sender.
+
+A: Black & White stores the sender's name in your personal B&W address book (addressbook.lhe). The sender's name will be assigned to a Villager the next time you play the game. Black & White DOES NOT create new villagers based on the sender's name as soon as you get an email from a person who is not already in your contact list. Instead a Villager will inform you that you have received new mail.
+
+Q: How many villagers will be named from my address book?
+
+A: At least one. A random number of villagers will be named from your address book. The names are randomly selected from your address book. You might not recognize some named villagers in Black & White. These may be members of the Lionhead development team.
+
+
+Q: I've received a mail but it didn't appear in Black & White. I've checked everything, the settings are all right, the connection is there, but nothing shows up.
+
+
+A: Black & White makes decisions about whether it should display a mail or not. A lot of Internet users have "Leave-Mail-On-Server" feature turned on in their email programs. Therefore Black & White needs to check the time on the mails on a POP3 account or in Outlook (which are marked as readable). Otherwise every mail, including any old mails on your mail account would show up EVERY TIME you run Black & White. Black & White saves its startup time, so it can compare the time values of the mails with its own startup time. If Black & White cannot find out the correct time of a mail (due mail header problems or poor configuration of the mail servers), it will not show up the mail. Also, non-standard time zone entries in the mails that don't allow Black & White to find out how "old" a mail is will be denied. Most mail servers and mail programs deliver a correct mail header & mail format, however.
+
+Q:I could hear my Outlook mail sound but then it took ages before the mail showed up in the game.
+
+A: Black & White uses the direct Outlook API to access your Outlook. So Black & White has to scan all the folders that contain new mails to find out which ones are new and to get their subject and names fields.
+Depending on the amount of mails you have in your folders, it can take some time. Large folders can take up to several minutes to scan. 
+
+
+Q: I sometimes have to wait a couple of minutes until Black & White starts to show any received mails, although I have mails in the background.
+
+A: On startup Black & White stores the actual time to have a reference time for showing mails or ignoring them. Everything BEFORE this time value will NOT be shown. Everything AFTER this value will make it into the game.
+Be sure that you have correct date/time settings on your computer.
+
+
+Q: I have tried everything; the email feature still does not work with my POP3 mail program.
+
+A: The mail server you're using may not be using the standard protocols. 
+
+Q: I'm running Outlook in "Groupware mode" - for example using Microsoft Exchange Server. But the contact names or email notification doesn't work.
+
+A: If you run Outlook in "Groupware" mode it may not give Black & White the permissions to read out the contact names and / or checking mails. This is a limitation with Outlook running in the mode. The supported mode needs to be "Internet Only". You can select this by changing the Mail Delivery Support in the Options Menu of Outlook. NOTE: You should not change the method of mail delivery if you're using Outlook with any Groupmail software like Microsoft Exchange Server.
+
+
+--------------------------------
+11. Notes on video card chipsets
+--------------------------------
+
+To run correctly, Black & White requires DirectX 7.0a or higher and a 3D accelerated graphics card with a minimum of 8 Megabytes of memory. 
+
+The following cards are supported:
+Voodoo II
+Voodoo II SLI
+Voodoo III
+Voodoo 5
+Permedia 3
+ATI Rage 128
+ATI RADEON
+Millennium G400/G450
+nVidia Riva TNT
+nVidia Riva TNT 2
+nVidia GeForce 256
+nVidia Quadro
+nVidia GeForce2
+Savage 4
+Savage 2000
+PowerVR Kyro
+
+If you are experiencing problems with your video card and Black & White, try updating your video card driver by downloading the latest driver available from the video card manufacturer. If there is no improvement, try using the latest driver provided by the video chipset manufacturer. Your video card chipset is the video processing chip located on your video card. If there is no information in your video card manual or website, check the video card for an identifying chip with the chipset manufacturer's name on it. Some popular video chipset manufacturer's websites are listed below:
+
+3Dfx		http://www.3dfx.com/
+NVidia		http://www.nvidia.com/
+Matrox		http://www.matrox.com/
+S3		http://www.s3graphics.com/
+ATI		http://www.ati.com/
+
+
+---------
+12. Help!
+---------
+
+If the above do not resolve your problem then please use the EA Technical Help file situated in Start Menu/Programs/Lionhead Studios Ltd/EA Technical Support. 
+
+----------------------------------------------
+13. Hot off the Press - Additional information.
+----------------------------------------------
+
+For the latest information about Black & White please consult the Black & White Website at www.bwgame.com and the Lionhead website at www.lionhead.com
+
+INTERNET WEATHER SYSTEM:
+The Internet Weather system creates the same weather conditions in your Black & White world as exist outside your window. This feature is only operational in the single player game and also you need to have done the following:
+
+1. You have registered at www.bwgame.com site
+2. You have gone into the Online Game - Find Games on the internet and entered your username and password at least once.
+
+To activate this feature run the Setup.exe application and uncheck the 'Disable Internet Weather System' function.
+
+To set your world weather location visit www.bwgame.com.
+
+
+Software (c) 2001 Lionhead Studios Ltd. Black & White, Lionhead and the Lionhead logo are trademarks of Lionhead Studios Ltd. Electronic Arts, EA GAMES and the EA GAMES logo are trademarks or registered trademarks of Electronic Arts Inc. in the US and/or other countries. All rights reserved. EA GAMES(TM) is an Electronic Arts(TM) brand 
+
+Microsoft Outlook, DirectX and Direct3D are trademarks or registered trademarks of Microsoft Corporation, Inc.  AOL is a registered trademark of America Online Inc.  Permedia is a trademark of 3D Labs, Inc., Ltd.  nVidia is a registered trademark of Nvidia Corporation.  Matrox is a registered trademark of Matrox Electronic Systems Ltd.  All other trademarks are the property of their respective owners.
+
