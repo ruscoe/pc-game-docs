@@ -4,19 +4,50 @@
         <title>PC Game Manuals</title>
     </head>
     <body>
-        <h1 align="center">PC Game Docs</h1>
+        <h1 style="text-align: center;">PC Game Docs</h1>
         <p>A convenient repository of PC game manuals.</p>
 
-        <table id="games"></table>
+        <div id="root"></div>
 
-        <script>
+        <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+        <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+        <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-            const games = [
+        <script type="text/babel">
+
+            const game_data = [
                 { name: "James Bond 007: Nightfire" , year: 2002, filepath: "007-nightfire.pdf" },
                 { name: "Age of Empires 2: Conquerors Expansion" , year: 2000, filepath: "age-of-empires-2-conquerors.pdf" },
                 { name: "Baldurs Gate 2" , year: 2000, filepath: "baldurs-gate-2.pdf" },
                 { name: "Beneath a Steel Sky" , year: 1994, filepath: "beneath-a-steel-sky.pdf" }
             ];
+
+            function GameList({ games }) {
+                return (
+                    <table>
+                        <thead>
+                            <tr>
+                                <td>Game Name</td>
+                                <td>Release Year</td>
+                                <td>File</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        {games.map((game, i) => (
+                            <Game key={i} {...game} />
+                        ))}
+                        </tbody>
+                    </table>
+                );
+            }
+
+            function Game({ name, year, filepath }) {
+                return (
+                    <tr><td>{name}</td><td>{year}</td><td>{filepath}</td></tr>
+                );
+            }
+
+            ReactDOM.render(<GameList games={game_data} />, document.getElementById("root"));
 
         </script>
     </body>
