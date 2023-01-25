@@ -123,6 +123,7 @@
             function SortByName() {
                 let sorted_game_data = game_data;
 
+                // Sort by name alphabetically, A-Z.
                 sorted_game_data.sort((a, b) => a.name < b.name ? -1 : 1);
 
                 RenderGameList(sorted_game_data);
